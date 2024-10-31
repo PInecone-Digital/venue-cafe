@@ -1,0 +1,15 @@
+<svg width='24' height='24' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<g clip-path='url(#clip0_102_120)'>
+<path d='M2 55H58L54.5484 58.5296C52.1864 60.7605 49.0821 62 45.8583 62H14.7879C11.9421 62 9.17791 61.0332 6.93391 59.2532L2 55Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M39.4999 55H20.5127C12.3362 48.7298 7.64683 41.3945 8.0208 33.0769V29H52V33.711C51.33 42.9701 47.0482 50.4364 39.4999 55Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M52.5095 35.632C52.5095 35.632 59.8424 33.013 61.6978 38.438C63.5532 43.8629 56.3969 47.6976 52.9514 49.194C49.5059 50.6905 45 52 45 52' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M22.1921 9C22.1921 9 23 10.45 23 12.7367C23 15.0233 22 16.8643 22 18.8723C22 20.8804 23 23 23 23' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M30.1921 9C30.1921 9 31 10.45 31 12.7367C31 15.0233 30 16.8643 30 18.8723C30 20.8804 31 23 31 23' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M37.1921 9C37.1921 9 38 10.45 38 12.7367C38 15.0233 37 16.8643 37 18.8723C37 20.8804 38 23 38 23' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/>
+</g>
+<defs>
+<clipPath id='clip0_102_120'>
+<rect width='64' height='64' fill='white'/>
+</clipPath>
+</defs>
+</svg>

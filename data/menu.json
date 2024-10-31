@@ -1,0 +1,473 @@
+{
+  "info": [
+    {
+      "name": "Morning Brew Cafe",
+      "description": "Morning Brew Cafe is your go-to spot for fresh, locally-sourced ingredients and artisan coffee. We serve a delightful selection of breakfast and brunch dishes, along with a variety of hot drinks and freshly squeezed juices to energize your day.",
+      "location": "123 Coffee Lane, Seattle, WA 98101",
+      "locationLink": "https://goo.gl/maps/example",
+      "website": "https://morningbrewcafe.com",
+      "phone": "(206) 555-1234",
+      "coverImage": "cover.webp",
+      "logoImage": "logo.png"
+    }
+  ],
+  "menu": [
+    {
+      "category": "Breakfast",
+      "icon": "<svg width='24' height='24' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M33.3503 61H16.6888L12 25H55L53 44' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M13.2803 33.6472C12.2841 33.2302 11.1782 33 10.0163 33C5.58797 33 2 36.3592 2 40.5C2 44.6408 5.59041 48 10.0163 48C11.8992 48 13.6311 47.3915 15 46.3751' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M29.9667 16C30.2325 13.3325 28.9075 10.6651 26 8' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M38 16C38 16 37.912 12.5748 36.6805 10.0261C35.4489 7.47743 33.9558 4.84323 34.001 3' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M29 61H22.9045C22.9045 61 18.8245 60.9568 20.3358 57.1049C21.847 53.2529 23.1068 53 23.1068 53' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M53 61H59.0955C59.0955 61 63.1755 60.9568 61.6642 57.1049C60.153 53.2529 58.8931 53 58.8931 53' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M37 60.9916H30.1186C30.1186 60.9916 29.3292 61.2183 27.9752 59.3139C26.6213 57.4096 23.2372 52.4063 23.2372 52.4063C23.2372 52.4063 22.7035 51.6171 23.2372 50.1215C23.9288 48.1824 31.5635 44.4696 31.8673 45.0636' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M45 60.9916H51.8814C51.8814 60.9916 52.6708 61.2183 54.0248 59.3139C55.3787 57.4112 58.7628 52.4063 58.7628 52.4063C58.7628 52.4063 59.2965 51.6171 58.7628 50.1215C58.0712 48.1824 50.4365 44.4696 50.1327 45.0636' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M46.1857 61H36.6861L33.0617 45.636C32.8262 44.6366 33.2789 43.5244 34.1735 43.2177C38.9738 41.5679 43.8491 41.6134 48.7946 43.2396C49.7107 43.5413 50.1832 44.672 49.9339 45.6899L46.1873 61H46.1857Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "description": "Start your day right with our hearty breakfast options made from fresh ingredients.",
+      "items": [
+        {
+          "image": true,
+          "imageUrl": "01.png",
+          "name": "Nutty granola",
+          "description": "house made granola w/ macerated berries, greek yoghurt & orange honey",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$7.50"
+            }
+          ],
+          "labels": ["vegan"],
+          "additions": [
+            {
+              "name": "name",
+              "price": "price"
+            }
+          ]
+        },
+        {
+          "image": true,
+          "imageUrl": "02.png",
+          "name": "Lemon & almond porridge",
+          "description": "lemon curd, rasperries, blueberries & toasted almonds",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$6.50"
+            }
+          ],
+          "labels": ["vegan"],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "03.png",
+          "name": "Eggs any way on sourdough toast",
+          "description": "two free range eggs w/ Fed sauce",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$7.50"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "04.png",
+          "name": "Acai bowl",
+          "description": "açai, house made granola, macerated berries & peanut sauce",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$8.50"
+            }
+          ],
+          "labels": ["vegan"],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "05.png",
+          "name": "Toasted bagel or sourdough",
+          "description": "strawberry jam or peanut butter",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$4.50"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        }
+      ]
+    },
+    {
+      "category": "Brunch",
+      "icon": "<svg width='24' height='24' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M36 29C38.7614 29 41 26.7614 41 24C41 21.2386 38.7614 19 36 19C33.2386 19 31 21.2386 31 24C31 26.7614 33.2386 29 36 29Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M47.1448 20.1802C45.7306 15.3143 41.1801 11.7997 35.8505 12.0089C29.9664 12.2378 25.1888 17.0938 25.0056 23.0254C24.8517 28.0168 27.8878 32.3142 32.2135 34.005C33.9331 34.677 35.4353 35.8387 36.5442 37.3253C38.3321 39.7176 41.2485 41.2017 44.4971 40.9777C49.0402 40.6627 52.7065 36.9364 52.9825 32.356C53.1559 29.4911 52.0275 26.8871 50.1369 25.0879C48.7252 23.7441 47.6944 22.0606 47.1473 20.1802H47.1448Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M32 61C48.0163 61 61 48.0163 61 32C61 15.9837 48.0163 3 32 3C15.9837 3 3 15.9837 3 32C3 48.0163 15.9837 61 32 61Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M29 14C21.027 15.3601 14.8263 21.8894 14 30' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M40 48C43.3571 46.1545 46.139 43.3722 48 40' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M34.3324 52.7725C25.4152 50.34 17.595 46.614 11.4289 40.6171C9.37679 38.5273 8.32713 36.8525 9.47131 34.6927C10.618 32.5328 13.6351 30.9908 15.5778 32.7935C22.423 38.4766 30.0865 42.234 38.4937 44.237C40.9537 44.8161 41.5955 48.0016 40.4513 50.1614C39.3046 52.3213 37.3769 53.5351 34.3324 52.7701V52.7725Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "description": "Our brunch menu features a delicious blend of breakfast and lunch items perfect for any time of the day.",
+      "items": [
+        {
+          "image": true,
+          "imageUrl": "06.png",
+          "name": "Emily's banana bread",
+          "description": "vanilla mascarpone or butter, served toasted",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$6.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "07.png",
+          "name": "Smashed avocado & poached eggs",
+          "description": "on sourdough w/ chilli salt & house pickles",
+          "ingredients": "",
+          "notes": "",
+          "prices": [],
+          "labels": [],
+          "additions": [
+            {
+              "name": "w/ bacon",
+              "price": "$13.00"
+            },
+            {
+              "name": "w/ smoked salmon",
+              "price": "$15.50"
+            }
+          ]
+        },
+        {
+          "image": true,
+          "imageUrl": "09.png",
+          "name": "French toast",
+          "description": "Macerated berries, white chocolate & almond crumble, whipped vanilla mascarpone & salted caramel",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$14.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "10.png",
+          "name": "Egg benedict",
+          "description": "poached free range eggs, spinach & fresh hollandaise on sourdough toast",
+          "ingredients": "",
+          "notes": "",
+          "prices": [],
+          "labels": [],
+          "additions": [
+            {
+              "name": "w/ bacon",
+              "price": "$12.00"
+            },
+            {
+              "name": "w/ avocado",
+              "price": "$12.00"
+            },
+            {
+              "name": "w/ smoked salmon",
+              "price": "$15.00"
+            },
+            {
+              "name": "w/ halloumi",
+              "price": "$15.00"
+            }
+          ]
+        },
+        {
+          "image": true,
+          "imageUrl": "11.png",
+          "name": "Halloumi & shrooms",
+          "description": "pan fried halloumi w/ garlic & thyme roasted mushrooms, free range poached eggs, Fed sauce & dukkah mix on sourdough toast",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$14.00"
+            },
+            {
+              "option": "add chorizo sausage",
+              "price": "+$3.00"
+            },
+            {
+              "option": "add avocado",
+              "price": "+$3.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "12.png",
+          "name": "Turkish eggs",
+          "description": "free range poached eggs on whipped garlic yoghurt w/ hot chilli butter & za'atar served w/ sourdough toast",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$12.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "13.png",
+          "name": "Steak & eggs",
+          "description": "8oz sirloin steak, fried eggs, Fed sauce & salsa verde (halal beef available on request)",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$20.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "14.png",
+          "name": "Ceddar corn fritters",
+          "description": "stacked with bacon or smoked salmon, avocado, two poached eggs, sweet chilli & cucumber sop & lime sour cream",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$15.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        }
+      ]
+    },
+    {
+      "category": "Hot Drinks",
+      "icon": "<svg width='24' height='24' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'><g clip-path='url(#clip0_102_120)'><path d='M2 55H58L54.5484 58.5296C52.1864 60.7605 49.0821 62 45.8583 62H14.7879C11.9421 62 9.17791 61.0332 6.93391 59.2532L2 55Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M39.4999 55H20.5127C12.3362 48.7298 7.64683 41.3945 8.0208 33.0769V29H52V33.711C51.33 42.9701 47.0482 50.4364 39.4999 55Z' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M52.5095 35.632C52.5095 35.632 59.8424 33.013 61.6978 38.438C63.5532 43.8629 56.3969 47.6976 52.9514 49.194C49.5059 50.6905 45 52 45 52' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M22.1921 9C22.1921 9 23 10.45 23 12.7367C23 15.0233 22 16.8643 22 18.8723C22 20.8804 23 23 23 23' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M30.1921 9C30.1921 9 31 10.45 31 12.7367C31 15.0233 30 16.8643 30 18.8723C30 20.8804 31 23 31 23' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/><path d='M37.1921 9C37.1921 9 38 10.45 38 12.7367C38 15.0233 37 16.8643 37 18.8723C37 20.8804 38 23 38 23' stroke='currentColor' stroke-width='4' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/></g><defs><clipPath id='clip0_102_120'><rect width='64' height='64' fill='white'/></clipPath></defs></svg>",
+      "description": "Enjoy our artisanal hot drinks crafted from the finest ingredients.",
+      "items": [
+        {
+          "image": false,
+          "imageUrl": "15.png",
+          "name": "Espresso",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$2.90"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": false,
+          "imageUrl": "16.png",
+          "name": "Americano",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.20"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": false,
+          "imageUrl": "17.png",
+          "name": "Flat white",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.20"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": false,
+          "imageUrl": "18.png",
+          "name": "Cappuccino",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.40"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": false,
+          "imageUrl": "19.png",
+          "name": "Latte",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.40"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": false,
+          "imageUrl": "20.png",
+          "name": "Mocha",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.80"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": false,
+          "imageUrl": "21.png",
+          "name": "English peppermint",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": false,
+          "imageUrl": "22.png",
+          "name": "Castlefield Breakfast",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": false,
+          "imageUrl": "",
+          "name": "Earl grey",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.00"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        }
+      ]
+    },
+    {
+      "category": "Juices",
+      "icon": "<svg width='24' height='24' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'><g clip-path='url(#clip0_76_13)'><path d='M34.5 26.5H17.2317M17.2317 26.5L19.5 57.5V62.5H44.5V57.5L47.5 16.5H16.5L17.2317 26.5ZM38.5 49.5L42 1.5' stroke='currentColor' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/><circle cx='25.5' cy='34.5' r='1.5' fill='currentColor'/><circle cx='30.5' cy='42.5' r='1.5' fill='currentColor'/><circle cx='26.5' cy='49.5' r='1.5' fill='currentColor'/></g><defs><clipPath id='clip0_76_13'><rect width='64' height='64' fill='white'/></clipPath></defs></svg>",
+      "description": "Freshly squeezed juices to invigorate your morning.",
+      "items": [
+        {
+          "image": true,
+          "imageUrl": "23.png",
+          "name": "Freshly squeezed OJ",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.50"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "24.png",
+          "name": "Fresh apple juice",
+          "description": "",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$3.50"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        },
+        {
+          "image": true,
+          "imageUrl": "25.png",
+          "name": "Daily dose cold press",
+          "description": "Rouge - apple beetroot ginger aloe vera",
+          "ingredients": "",
+          "notes": "",
+          "prices": [
+            {
+              "option": "Single",
+              "price": "$4.50"
+            }
+          ],
+          "labels": [],
+          "additions": []
+        }
+      ]
+    }
+  ]
+}
